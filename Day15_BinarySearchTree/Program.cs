@@ -15,4 +15,5 @@ binarySearch.Insert(63);
 binarySearch.Insert(67);
 binarySearch.Display();
 binarySearch.GetSize();
+binarySearch.IfExists(63,binarySearch.rightTree);
 
